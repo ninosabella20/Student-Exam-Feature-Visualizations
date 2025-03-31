@@ -4,6 +4,10 @@
 
 This project uses Tableau to analyze a Kaggle dataset on student performance. The goal is to understand the features of the dataset before building a model that predicts which features most influence student performance in exams.
 
+## Dataset
+The dataset used in this project is publicly available on Kaggle. You can find it here:  
+https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
+
 ## Features
 
 - **Score Distribution**: Analyzes the distribution of students' scores to identify patterns or outliers.
